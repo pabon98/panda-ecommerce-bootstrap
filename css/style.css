@@ -1,0 +1,11 @@
+.panda-bg-info{
+    background-color: #fcecea;
+}
+
+.panda-btn-warning{
+    background-image: linear-gradient(rgb(255, 88, 155) 0%, rgb(255, 75, 146) 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
